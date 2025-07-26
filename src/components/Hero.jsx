@@ -39,6 +39,9 @@ export function Hero() {
       <div className="md:hidden w-full h-full flex flex-col mt-20 items-center justify-center">
         <h1 className=" text-9xl heading">BOU</h1>
         <h1 className=" text-xl heading">And this, is chemical burn.</h1>
+        <div className="mt-5 w-80 md:w-1/2 bg-light rounded-full px-5 py-2 border-2 border-2 border-white ">
+        <p className="truncate">hhddvnii8765gvdbi865tgbj775rybonk</p>
+        </div>
       </div>
 
       <div className=" w-full h-full relative overflow-hidden">
