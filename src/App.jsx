@@ -179,7 +179,7 @@ function App() {
 
       <div className=" pb-10 gap-3 flex items-center justify-center flex-col">
         <p className=" text-2xl heading">© {new Date().getFullYear()} BOU</p>
-        <a href="">
+        <a href="https://x.com/BouSolana">
           <FaXTwitter />
         </a>
       </div>
