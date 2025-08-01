@@ -60,7 +60,7 @@ function App() {
       </div>
 
       {/* about  */}
-      <div className=" relative flex items-center justify-center w-full h-screen bg-[url('https://res.cloudinary.com/dsdg8ke2n/image/upload/v1753554933/raw_11_q2dfwj.webp')] bg-cover bg-no-repeat bg-center">
+      <div id="about" className=" relative flex items-center justify-center w-full h-screen bg-[url('https://res.cloudinary.com/dsdg8ke2n/image/upload/v1753554933/raw_11_q2dfwj.webp')] bg-cover bg-no-repeat bg-center">
         <div className="  bg-black/50 w-full h-full flex items-center justify-center flex-col">
           <h1 className=" drop-shadow-[0px_0px_10px_#f8f8f8] heading pt-10 text-7xl text-center md:pt-20">
             ABOUT BOU
@@ -80,7 +80,7 @@ function App() {
       {/* about end */}
 
       {/* how to buy  */}
-      <div className=" py-10 px-5 md:px-32">
+      <div id="howtobuy" className=" py-10 px-5 md:px-32">
         <h1 className=" drop-shadow-[0px_0px_10px_#f8f8f8] heading pt-10 text-7xl text-center md:py-20">
           HOW TO BUY
         </h1>
