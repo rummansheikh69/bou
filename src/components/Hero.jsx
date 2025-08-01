@@ -27,7 +27,7 @@ export function Hero() {
               <FaXTwitter className=" text-black" />
             </a>
             <a
-              href="https://x.com/BouSolana"
+              href="https://letsbonk.fun/token/2AqGkS62zxNFCZTpWSi3vcF9rZMYRHv9Pbnq4zA3bonk"
               className=" py-1.5 px-5 rounded-lg bg-white border-2 border-zinc-300"
             >
               <p className=" text-black hero leading-4 text-xl">BUY</p>
@@ -40,7 +40,7 @@ export function Hero() {
         <h1 className=" text-9xl heading">BOU</h1>
         <h1 className=" text-xl heading">And this, is chemical burn.</h1>
         <div className="mt-5 w-80 md:w-1/2 bg-light rounded-full px-5 py-2 border-2 border-2 border-white ">
-        <p className="truncate">hhddvnii8765gvdbi865tgbj775rybonk</p>
+        <p className="truncate">2AqGkS62zxNFCZTpWSi3vcF9rZMYRHv9Pbnq4zA3bonk</p>
         </div>
       </div>
 
