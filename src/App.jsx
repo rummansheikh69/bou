@@ -156,8 +156,10 @@ function App() {
             </div>
           </div>
         </div>
-         <div className="mt-5 w-80 md:w-1/2 bg-light rounded-full px-5 py-2 border-2 border-2 border-white ">
+        <div className="flex items-center justify-center mt-5">
+         <div className="mt-5 w-80 md:w-1/2 bg-light rounded-full px-5 py-2 border-2 border-2 border-white flex items-center justify-center ">
         <p className="truncate">2AqGkS62zxNFCZTpWSi3vcF9rZMYRHv9Pbnq4zA3bonk</p>
+        </div>
         </div>
       </div>
       {/* how to buy end */}
